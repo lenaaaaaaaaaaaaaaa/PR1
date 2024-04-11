@@ -15,4 +15,5 @@
     <string name="browser">Browser</string>
     <string name="webview">WebView</string>
     <string name="data">Data</string>
+    <string name="menu_notification">Notification</string>
 </resources>
