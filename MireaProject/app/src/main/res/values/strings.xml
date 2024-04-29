@@ -16,4 +16,7 @@
     <string name="webview">WebView</string>
     <string name="data">Data</string>
     <string name="menu_notification">Notification</string>
+    <string name="menu_compass">Compass</string>
+    <string name="menu_notes">Notes</string>
+    <string name="menu_microphone">Microphone</string>
 </resources>
