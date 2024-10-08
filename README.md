@@ -8,4 +8,5 @@
 # 8 ЛАБА ---> Lesson 8 и MireaProject (https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/MireaProject/app/src/main/java/ru/mirea/nadezhkinaea/mireaproject/ui/lesson8)
 
 # 2 семестр
-# 9 ЛАБА ---> Lesson 9 и MireaProject ([https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/MireaProject/app/src/main/java/ru/mirea/nadezhkinaea/mireaproject/ui/lesson9](https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/Lesson9/app/src))
+# 9 ЛАБА ---> Lesson 9 (https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/MireaProject/app/src/main/java/ru/mirea/nadezhkinaea/mireaproject/ui/lesson9](https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/Lesson9/app/src)
+# 9 ЛАБА ---> Проект на 2 семестр bodyDiary (https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/bodyDiary)
