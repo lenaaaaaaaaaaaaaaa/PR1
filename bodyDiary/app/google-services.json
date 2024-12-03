@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948110832218",
+    "project_id": "bodydiary-5cefb",
+    "storage_bucket": "bodydiary-5cefb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948110832218:android:f0e86d62e4d11c132e5e63",
+        "android_client_info": {
+          "package_name": "ru.mirea.bodydiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-J_VdsS7NYTDA1wk04sRSzErxTErR-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
