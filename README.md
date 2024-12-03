@@ -10,6 +10,7 @@
 # 2 семестр
 # 1 ЛАБА ---> Lesson 9
 # Проект на 2 семестр bodyDiary (https://github.com/lenaaaaaaaaaaaaaaa/PR1/tree/main/bodyDiary)
+# Прототип bodyDiary (https://github.com/lenaaaaaaaaaaaaaaa/PR1/blob/main/Prototip/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF.png)
 # 2 ЛАБА ---> Lesson 10
 # 3 ЛАБА ---> Lesson 11 
 # 4 ЛАБА ---> Lesson 12 
